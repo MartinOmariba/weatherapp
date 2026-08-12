@@ -93,14 +93,5 @@ java -cp out Main
 
 The application includes validation and exception handling to manage invalid city names, API errors, unavailable weather data, and network-related problems without unnecessarily terminating the application.
 
-## Educational Purpose
 
-This project was developed as part of a Java programming course to demonstrate practical application of object-oriented programming, graphical user interfaces, API integration, exception handling, file/data management, and asynchronous processing in Java.
-
-
-GitHub: [MartinOmariba](https://github.com/MartinOmariba)
-
-## License
-
-This project is intended for educational and academic purposes.
 
